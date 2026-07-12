@@ -116,7 +116,3 @@ The application requests access to the default webcam. Depending on the operatin
 - Recognition quality depends on lighting, hand visibility, and camera position.
 - The application is configured to use the system's default camera.
 - The graphical interface was designed for a large display area and may require layout adjustment on smaller screens.
-
-## Academic Context
-
-This project was developed as a bachelor's thesis focused on human-computer interaction, computer vision, real-time hand-gesture recognition, and touch-free input.
