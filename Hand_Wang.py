@@ -15,7 +15,7 @@ class HandThread(QThread):
     def __init__(self):
         super().__init__()
         self.cap = cv2.VideoCapture(0)
-        self.prev_gesture = None  # 用于存储上一帧的手势
+        self.prev_gesture = None  # store the gesture in the last frame
 
     def run(self):
         draw = True
